@@ -1,7 +1,7 @@
 openapi: 3.0.0
 info:
   version: v22
-  title: repoVersion 1 - edited times 8
+  title: repoVersion 1 - edited times 9
 servers:
   - url: 'http://localhost:3000'
 paths:
